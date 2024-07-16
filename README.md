@@ -20,8 +20,6 @@ What we learned is to look at the simple things first before trying to solve the
 ## What's next for Cracked Screen: 
 We plan to make it more realistic, allow users to choose different types of images, and make our own dataset that we trained as that would be more efficient because we would be able to train it to do different things.
 
-Credit:
-Keta Khatri, 	Shivam Khatri, Neel Patel
 
 MIT License
 
